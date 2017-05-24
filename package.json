@@ -12,6 +12,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "hackrf": "^3.0.1"
+    "hackrf": "https://github.com/barto-/node-hackrf.git"
   }
 }
